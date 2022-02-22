@@ -67,10 +67,12 @@ h4 {
 
 h2 {
   color: #fff;
-  padding: 9px;
-  background: #000;
-  border-radius: 5px;
-  font-size: 1.5rem;
+    padding: 9px;
+    background: #000;
+    border-radius: 5px;
+    font-size: 34px;
+    width: 500px;
+    height: 72px;
 }
 
 .color {
