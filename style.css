@@ -45,7 +45,7 @@ main {
   display: flex;
   flex-direction: column;
   height: 5em;
-  width: 30rem;
+  width: 40rem;
   justify-content: space-between;
   align-items: center;
 }
