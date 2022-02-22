@@ -44,8 +44,8 @@ main {
 .container {
   display: flex;
   flex-direction: column;
-  height: 5em;
-  width: 40rem;
+  height: 100px;
+  width: 550px;
   justify-content: space-between;
   align-items: center;
 }
@@ -66,7 +66,7 @@ h4 {
 }
 
 h2 {
-  color: #fff;
+    color: #fff;
     padding: 9px;
     background: #000;
     border-radius: 5px;
