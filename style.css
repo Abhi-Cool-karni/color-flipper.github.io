@@ -80,7 +80,7 @@ h2 {
   color: #00ffff;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 425px) {
   /*Margin and styling for nav*/
   .nav-center {
     width: auto;
