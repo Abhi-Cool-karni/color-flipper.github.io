@@ -31,23 +31,23 @@
 }
 
 main {
-  width: 100%;
-  height: 90%;
-  position: absolute;
-  top: 4rem;
-  left: 0;
-  display: flex;
-  align-items: center;
-  justify-content: center;
+    width: 99vw;
+    height: 100vh;
+    position: relative;
+    top: 50vh;
+    transform: translate(0, -50vh);
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .container {
   display: flex;
-  flex-direction: column;
-  height: 100px;
-  width: 550px;
-  justify-content: space-between;
-  align-items: center;
+    flex-direction: column;
+    height: 8em;
+    width: 43em;
+    justify-content: space-between;
+    align-items: center;
 }
 
 #btn {
@@ -80,7 +80,7 @@ h2 {
   color: #00ffff;
 }
 
-@media only screen and (max-width: 375px) {
+@media only screen and (max-width: 380px) {
   /*Margin and styling for nav*/
   .nav-center {
     width: auto;
